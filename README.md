@@ -1,2 +1,2 @@
 # Google-automation
-This is a repository for Google sing cypress
+This is a repository for Buildas using cypress
